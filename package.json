@@ -32,5 +32,8 @@
     "pinia": "^2.1.7",
     "typescript": "^5.5.3",
     "vue-tsc": "^2.0.26"
+  },
+  "dependencies": {
+    "@bg-dev/nuxt-naiveui": "^1.14.0"
   }
 }
