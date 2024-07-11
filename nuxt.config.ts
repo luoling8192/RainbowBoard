@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     '@vite-pwa/nuxt',
     '@nuxt/eslint',
     '@bg-dev/nuxt-naiveui',
+    'nuxt-lodash',
   ],
 
   experimental: {
